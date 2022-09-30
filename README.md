@@ -11,5 +11,5 @@ Reasons for choosing this set:
   
 Notes/stuff to look into  
 -maybe change Q5 histogram to compare data that makes more sense  
--see about removing the $ from the prices to change to ints so we can analyse that  
--same with service fee  
+-annoyingly the kaggle description mentions stuff like number of rooms, but they arent in the actual dataset sooo  
+-what is review_rate_number? the kaggle desc doesnt mention it
