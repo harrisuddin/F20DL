@@ -10,6 +10,4 @@ Reasons for choosing this set:
   
   
 Notes/stuff to look into  
--maybe change Q5 histogram to compare data that makes more sense  
--annoyingly the kaggle description mentions stuff like number of rooms, but they arent in the actual dataset sooo  
--what is review_rate_number? the kaggle desc doesnt mention it
+-if we want to analyse cancellation policy, instant_bookable or room type could change them to a numerical system (0, 1 for false, true, etc etc)
